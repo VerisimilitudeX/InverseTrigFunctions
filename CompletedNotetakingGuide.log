@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.11)  15 MAY 2024 17:50
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.11)  15 MAY 2024 17:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**NotetakingGuide
-(./NotetakingGuide.tex
+**CompletedNotetakingGuide
+(./CompletedNotetakingGuide.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -471,8 +471,8 @@ File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count302
 \g__pdf_backend_annotation_int=\count303
 \g__pdf_backend_link_int=\count304
-) (./NotetakingGuide.aux)
-\openout1 = `NotetakingGuide.aux'.
+) (./CompletedNotetakingGuide.aux)
+\openout1 = `CompletedNotetakingGuide.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
@@ -582,48 +582,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 60.
+(Font)              <10> on input line 59.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 60.
+(Font)              <7> on input line 59.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 60.
+(Font)              <5> on input line 59.
 File: Screenshot 2024-05-14 192525.png Graphic file (type bmp)
 <Screenshot 2024-05-14 192525.png>
  [1
 
-]
-Overfull \hbox (46.99997pt too wide) in paragraph at lines 109--109
-[] 
- []
-
-
-Overfull \hbox (46.99997pt too wide) in paragraph at lines 114--114
-[] 
- []
-
-
-Overfull \hbox (46.99997pt too wide) in paragraph at lines 119--119
-[] 
- []
-
-
-Overfull \hbox (46.99997pt too wide) in paragraph at lines 127--127
-[] 
- []
-
-
-Overfull \hbox (46.99997pt too wide) in paragraph at lines 132--132
-[] 
- []
-
-[2] [3] (./NotetakingGuide.aux) ) 
+] [2] (./CompletedNotetakingGuide.aux) ) 
 Here is how much of TeX's memory you used:
- 18575 strings out of 476683
- 376158 string characters out of 5807574
- 1851012 words of memory out of 5000000
- 38497 multiletter control sequences out of 15000+600000
+ 18561 strings out of 476683
+ 375989 string characters out of 5807574
+ 1856012 words of memory out of 5000000
+ 38483 multiletter control sequences out of 15000+600000
  536642 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,11n,104p,1008b,732s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,104p,1017b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on NotetakingGuide.pdf (3 pages).
+Output written on CompletedNotetakingGuide.pdf (2 pages).
